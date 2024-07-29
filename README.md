@@ -7,30 +7,33 @@ I'm a passionate student pursuing a **Bachelor of Science in Business Administra
 
 - 💼 **Portfolio Development**: I believe in the power of hands-on experience. My portfolio is a canvas where I showcase my projects, achievements, and creative endeavors. From coding challenges to business case studies, I'm building a diverse collection that reflects my journey.
 
-- 🚀 **Productivity Junkie**: Efficiency is my middle name! I'm constantly exploring productivity tools, time management techniques, and workflow optimizations. Let's connect if you have any productivity hacks to share!
+- 🚀 **Productivity Junkie**: Efficiency is my middle name! I constantly explore productivity tools, time management techniques, and workflow optimizations. Let's connect if you have any productivity hacks to share!
 
 ## 📚 What's in My Toolkit
 Here are some of the tools and technologies I'm currently working with:
 
 - **Languages**: Python, JavaScript
-- **Frameworks**: React, Flask
+- **Frameworks**: React, Flask, Express,
 - **Data Science**: Pandas, NumPy, Matplotlib
-- **Business Tools**: Excel, Tableau
+- **Business Tools**: Excel, CRM, SEO,
 - **Version Control**: Git
 
 ## 🌐 Connect with Me
 Feel free to reach out! Let's connect, collaborate, and learn together:
 
-- 📫 **Email**: admin@tealarson-hetrick.me
+- 📫 **Email**: [tea.larson-hetrick@waldenu.edu](mailto:tea.larson-hetrick@waldenu.edu)
 - 🌐 **LinkedIn**: [linkedin.com/in/tealarson-hetrick](https://www.linkedin.com/in/tealarson-hetrick)
 - 🐦 **Twitter**: [@teamichelle15](https://twitter.com/teamichelle15)
-
+- ✍🏻 **Medium**: [Tea Larson-Hetrick](https://medium.com/@tealarson-hetrick)
+  
 ## 🎯 Goals
 I'm on a mission to:
 - 🌟 **Level Up**: Continuously improve my skills and knowledge.
 - 🌐 **Network**: Connect with fellow learners, professionals, and mentors.
 - 🚀 **Launch Projects**: Turn ideas into reality and contribute to meaningful projects.
+- 👩🏻‍🎓 **LifeLong Learning**: Continue my education, obtaining 3 degrees or more, and always be open to learning new things.
+  
 
-Remember, this readme is a work in progress. As I learn and grow, I'll keep refining it. Stay tuned for updates! 🌈
+Just to remind you, this readme is a work in progress. As I learn and grow, I'll keep refining it. Stay tuned for updates! 🌈
 
-Feel free to customize this template to make it uniquely yours. Happy coding! 🚀
+You can customize this template to make it uniquely yours. Happy coding! 🚀
